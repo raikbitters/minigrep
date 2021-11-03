@@ -1,3 +1,3 @@
-# The Minigrep CLI tool
+# Minigrep CLI tool
 
 The study project by Rust.
